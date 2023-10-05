@@ -25,7 +25,7 @@ const updateBorrow = async (req, res) => {
     const id = await isIDGood(req.id)
     updateData.status = 'Return';
     const details = await getItem(id, Borrow, 'member_id book_id', 'code name title author stock');
-    console.log('details', details)
+    // console.log('details', details)
     updateData.member_id = details.member_id._id;
     updateData.book_id = details.book_id._id;
     updateData.dueDate = moment(details.dueDate).format('YYYY-MM-DD');

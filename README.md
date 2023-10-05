@@ -1,6 +1,6 @@
 # api-v2
 
-This project : [API UPSCALE](https://github.com/hektahendrapriana/upscale).
+This project : [API EIGEN](https://github.com/hektahendrapriana/eigen-api).
 
 ### `git clone https://github.com/hektahendrapriana/eigen-api.git `
 
