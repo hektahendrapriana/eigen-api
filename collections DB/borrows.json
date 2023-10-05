@@ -1,0 +1,2203 @@
+[{
+  "_id": {
+    "$oid": "6367b9d45267d34cc6fdcfe3"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Module List GET",
+  "path": "pages",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742164002"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743237611"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367b9e85267d34cc6fdcff5"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "Modules Add POST",
+  "path": "pages",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742184059"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743228729"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367bb257dddd34f8de894b3"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "Module Update PATCH",
+  "path": "pages",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742501011"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743219760"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367bb377dddd34f8de894c7"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "Module Delete",
+  "path": "pages",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742519007"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743206163"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367bb587dddd34f8de894db"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Users List GET",
+  "path": "userss",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742552918"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742552918"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bb687dddd34f8de894ef"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "User Add POST",
+  "path": "users",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742568612"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742568612"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bb7c7dddd34f8de89503"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "User Update PATCH",
+  "path": "users",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742588804"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742588804"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bb8b7dddd34f8de89517"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "User Delete",
+  "path": "users",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742603790"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742603790"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bc0d7dddd34f8de8952b"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "User Verify PATCH",
+  "path": "users/verify",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742733767"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742733767"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bc347dddd34f8de8953f"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Roles List GET",
+  "path": "roles",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742772755"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742772755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bc3f7dddd34f8de89553"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "Role Add POST",
+  "path": "roles",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742783492"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742783492"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bc577dddd34f8de89567"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "Role Update PATCH",
+  "path": "roles",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742807393"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742807393"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bc647dddd34f8de89579"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "Role Delete",
+  "path": "roles",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742820154"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742820154"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bc9c7dddd34f8de895ae"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Countries List GET",
+  "path": "countries",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742876888"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742876888"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bcab7dddd34f8de895c0"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "Country Add POST",
+  "path": "countries",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742891158"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742891158"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bcc87dddd34f8de895d2"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "Country Update PATCH",
+  "path": "countries",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742920840"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742920840"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bcd77dddd34f8de895e4"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "Country Delete",
+  "path": "countries",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742935478"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742935478"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bcff7dddd34f8de895f6"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "File List GET",
+  "path": "files",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742975201"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742975201"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bd157dddd34f8de89608"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "File Upload POST",
+  "path": "files",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667742997939"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667742997939"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bd297dddd34f8de8961a"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "File Update PATCH",
+  "path": "files",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743017314"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743017314"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bd337dddd34f8de8962c"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "File Delete",
+  "path": "files",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743027874"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743027874"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bd797dddd34f8de8963e"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Files Download",
+  "path": "download",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743097030"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743097030"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bd927dddd34f8de89650"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Hospitals List GET",
+  "path": "hospitals",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743122701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743122701"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bd9c7dddd34f8de89662"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "Hospital Add POST",
+  "path": "hospitals",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743132975"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743132975"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bdaa7dddd34f8de89674"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "Hospital Update PATCH",
+  "path": "hospitals",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743146079"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743146079"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bdb77dddd34f8de89686"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "Hospital Delete",
+  "path": "hospitals",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743159800"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743159800"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367be4c7dddd34f8de8975d"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Permissions Lists GET",
+  "path": "permissions",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743308977"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743308977"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367be577dddd34f8de8976f"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "Permission Add POST",
+  "path": "permissions",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743319479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743319479"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367be7c7dddd34f8de89781"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "Permission Update PATCH",
+  "path": "permissions",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743356891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743356891"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367be887dddd34f8de89793"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "Permission Delete",
+  "path": "permissions",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743368649"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743368649"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bf231d184c52d5fdae1d"
+  },
+  "method": "GET",
+  "source": "API",
+  "name": "Kode Pos List",
+  "path": "zipcodes",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743523219"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743523219"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bf3b1d184c52d5fdae2f"
+  },
+  "method": "POST",
+  "source": "API",
+  "name": "Kode Pos Add POST",
+  "path": "zipcodes",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743547189"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743547189"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bf4a1d184c52d5fdae41"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "Kode Pos Update PATCH",
+  "path": "zipcodes",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743562312"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743562312"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bf551d184c52d5fdae53"
+  },
+  "method": "DELETE",
+  "source": "API",
+  "name": "Kode Pos Delete",
+  "path": "zipcodes",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743573712"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743573712"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bf771d184c52d5fdae65"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Modules",
+  "path": "modules",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743607287"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743607287"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bf931d184c52d5fdae77"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Module Add",
+  "path": "addmodule",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743635250"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743674962"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367bfb51d184c52d5fdae89"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Module Edit",
+  "path": "editmodule",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743669413"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743669413"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367bfcf1d184c52d5fdaec8"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Module Delete",
+  "path": "deletemodule",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743695379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743735120"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c0051d184c52d5fdaefb"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Roles List",
+  "path": "roles",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743749157"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743749157"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c0131d184c52d5fdaf0f"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Role Add",
+  "path": "addrole",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743763621"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743763621"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c02a1d184c52d5fdaf23"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Role Edit",
+  "path": "editrole",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743786530"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743786530"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c04d1d184c52d5fdaf37"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Role Delete",
+  "path": "deleterole",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743821865"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743821865"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c0821d184c52d5fdaf67"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "List Permissions By Role",
+  "path": "listpermissions",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743874001"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743874001"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c0cc1d184c52d5fdaffc"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Add Permission By Role",
+  "path": "addpermissionmodule",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743948791"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743948791"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c0e31d184c52d5fdb010"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Edit Permission By Role",
+  "path": "editpermissionmodule",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743971841"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743971841"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c0f71d184c52d5fdb024"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Delete Permission By Role",
+  "path": "deletepermissionmodule",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667743991229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667743991229"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1361d184c52d5fdb038"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Users List",
+  "path": "users",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744054706"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744054706"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1411d184c52d5fdb04c"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "User Add",
+  "path": "adduser",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744065701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744065701"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c14f1d184c52d5fdb05e"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "User Edit",
+  "path": "edituser",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744079195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744079195"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c15e1d184c52d5fdb070"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "User Delete",
+  "path": "deleteuser",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744094815"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744094815"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c18f1d184c52d5fdb0b0"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "User Vierify",
+  "path": "verifieduser",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744143100"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744143100"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1a81d184c52d5fdb0c2"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "User Block/Unblock",
+  "path": "changestatususer",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744168278"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744168278"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1be1d184c52d5fdb0d4"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "User Sent Verification Email",
+  "path": "sendverification",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744190434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744190434"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1d51d184c52d5fdb0e6"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Permissions List",
+  "path": "permissions",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744213928"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744213928"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1e21d184c52d5fdb0f8"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Permission Add",
+  "path": "addpermission",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744226382"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744226382"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1f01d184c52d5fdb10a"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Permission Edit",
+  "path": "editpermission",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744240567"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744240567"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c1ff1d184c52d5fdb11c"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Permission Delete",
+  "path": "deletepermission",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744255516"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744255516"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2a61d184c52d5fdb169"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Dokter List",
+  "path": "dokter",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744422607"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744422607"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2b21d184c52d5fdb17b"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Dokter Add",
+  "path": "adddokter",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744434265"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744434265"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2c01d184c52d5fdb18d"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Dokter Edit",
+  "path": "editdokter",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744448961"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744448961"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2ce1d184c52d5fdb19f"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Dokter Delete",
+  "path": "deletedokter",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744462997"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744462997"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2dd1d184c52d5fdb1b1"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Perawat List",
+  "path": "perawat",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744477731"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744477731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2ea1d184c52d5fdb1c3"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Perawat Add",
+  "path": "addperawat",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744490687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744490687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c2fc1d184c52d5fdb1d5"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Perawat Edit",
+  "path": "editperawat",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744508785"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744508785"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c30a1d184c52d5fdb1e7"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Perawat Delete",
+  "path": "deleteperawat",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744522701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744522701"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3171d184c52d5fdb1f9"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Pasien List",
+  "path": "pasien",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744535998"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744535998"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c32a1d184c52d5fdb20b"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Pasien Add",
+  "path": "addpasien",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744554831"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744554831"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3371d184c52d5fdb21d"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Pasien Edit",
+  "path": "editpasien",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744567799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744567799"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3431d184c52d5fdb22f"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Pasien Delete",
+  "path": "deletepasien",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744579329"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744579329"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3691d184c52d5fdb24d"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Kode Pos/Zip Code List",
+  "path": "zipcodes",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744617974"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744617974"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3791d184c52d5fdb25f"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Kode Pos/Zip Code Add",
+  "path": "addzipcode",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744633350"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744685030"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c38c1d184c52d5fdb271"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Kode Pos/Zip Cod Edit",
+  "path": "editzipcode",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744652111"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744679023"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c39e1d184c52d5fdb283"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Kode Pos/Zip Code Delete",
+  "path": "deletezipcode",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744670698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744670698"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3d11d184c52d5fdb2ff"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Hospitals List",
+  "path": "hospitals",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744721063"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744721063"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3db1d184c52d5fdb313"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Hospital Add",
+  "path": "addhospital",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744731593"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744731593"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c3eb1d184c52d5fdb327"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Hospital Edit",
+  "path": "edithospital",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744747710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744747710"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c4101d184c52d5fdb349"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Hospital Delete",
+  "path": "deletehospital",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744784014"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744784014"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c4301d184c52d5fdb35d"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Hospital Status Verify",
+  "path": "changestatushospital",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744816708"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744827373"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c4541d184c52d5fdb390"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Services List",
+  "path": "services",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744852003"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744852003"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c45f1d184c52d5fdb3a4"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Service Add",
+  "path": "addservice",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744863852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744863852"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c46c1d184c52d5fdb3b8"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Service Edit",
+  "path": "editservice",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744876238"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744876238"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c47c1d184c52d5fdb3cc"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Service Delete",
+  "path": "deleteservice",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744892493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744892493"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c4d81d184c52d5fdb3e0"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "ICD 10 List",
+  "path": "icd10",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744984019"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744984019"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c4e21d184c52d5fdb3f4"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "ICD 10 Add",
+  "path": "addicd10",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667744994911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667744994911"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c4ef1d184c52d5fdb408"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "ICD 10 Edit",
+  "path": "editicd10",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745007519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745007519"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c4fc1d184c52d5fdb41c"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "ICD 10 Delete",
+  "path": "deleteicd10",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745020710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745020710"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c5131d184c52d5fdb430"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medical Journals List",
+  "path": "medicaljournals",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745043324"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745043324"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c5261d184c52d5fdb444"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Medical Journal Add",
+  "path": "addmedicaljournal",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745062015"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745062015"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c5351d184c52d5fdb456"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Journal Edit",
+  "path": "editmedicaljournal",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745077031"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745077031"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c5451d184c52d5fdb468"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Medical Journal Delete",
+  "path": "deletemedicaljournal",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745093263"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745093263"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c6711d184c52d5fdb4e8"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medicines List",
+  "path": "medicines",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745393769"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745393769"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c67d1d184c52d5fdb4fa"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Medicine Add",
+  "path": "addmedicine",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745405649"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745405649"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c6911d184c52d5fdb50c"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medicine Edit",
+  "path": "editmedicine",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745425174"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745425174"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c6a01d184c52d5fdb51e"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Medicine Delete",
+  "path": "deletemedicine",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745440614"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745440614"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c6bb1d184c52d5fdb53e"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medical Record File Manager",
+  "path": "filemanager",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745467153"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745467153"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c6db1d184c52d5fdb557"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Upload Medical Record File",
+  "path": "upload",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745499891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745499891"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c70e1d184c52d5fdb583"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medical Record Preview",
+  "path": "previewfile",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745550001"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745550001"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c7301d184c52d5fdb595"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Start Edit File",
+  "path": "startediting",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745584535"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667756199264"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c7f21d184c52d5fdb5f1"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Medical Record Edit",
+  "path": "editfile",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745778582"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667756225210"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c83f1d184c52d5fdb605"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Lock File",
+  "path": "lockfile",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745855222"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667745855222"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367c8571d184c52d5fdb619"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Recycled Bin File",
+  "path": "recycledbin",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745879209"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667746413781"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367c8691d184c52d5fdb62d"
+  },
+  "method": "DELETE",
+  "source": "ADMIN",
+  "name": "Medical Record Delete",
+  "path": "deletefile",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667745897029"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667746378500"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367ceb6d74f0c55b2f70e80"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Edit for Moderator",
+  "path": "editmoderator",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667747510891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667747518458"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367ceddd74f0c55b2f70eb3"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Medical Record Edit for Doctor",
+  "path": "inputmedicalrecord",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667747549013"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667747556285"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367d84cc6120f5f9b5eca86"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Send Task To Doctor",
+  "path": "sendtask",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667749964696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667749971209"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367fe140b59796be5c71b2d"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "File Update Doctor PATCH",
+  "path": "updatefiledoctor",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759636492"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759662028"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367fe440b59796be5c71b6e"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "File Update Moderator PATCH",
+  "path": "updatefilemoderator",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759684312"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759684312"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367fe5e0b59796be5c71b82"
+  },
+  "method": "PATCH",
+  "source": "API",
+  "name": "File Status Update",
+  "path": "updatestatusfile",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759710592"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759710592"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367feb90b59796be5c71c0e"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Approve Task From Moderator",
+  "path": "approvetask",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759801616"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759817722"
+    }
+  },
+  "modifiedBy": "634fc1df3ad23ce05a16e83e",
+  "parent": null
+},{
+  "_id": {
+    "$oid": "6367fede0b59796be5c71c41"
+  },
+  "method": "POST",
+  "source": "ADMIN",
+  "name": "Medical Record Add Medical Record",
+  "path": "addmedicalrecord",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759838525"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759838525"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367ff1d0b59796be5c71c9f"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medical Record List for Moderator",
+  "path": "listmedical",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759901763"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759901763"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367ff610b59796be5c71cf7"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medical Record List Task for Doctor",
+  "path": "listmedicaldoctor",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667759969724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667759969724"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367ff880b59796be5c71d0b"
+  },
+  "method": "GET",
+  "source": "ADMIN",
+  "name": "Medical Record List Approved Task and Editing File",
+  "path": "listeditingmedicaldoctor",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667760008108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667760008108"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6367ffa70b59796be5c71d35"
+  },
+  "method": "PATCH",
+  "source": "ADMIN",
+  "name": "Medical Record Finish Editing File",
+  "path": "finishediting",
+  "createdBy": "634fc1df3ad23ce05a16e83e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667760039965"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667760039965"
+    }
+  }
+}]
