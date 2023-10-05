@@ -16,7 +16,7 @@ const updateBorrow = async (req, res) => {
     req = matchedData(req)
     var errorMsg = '';
     const updateData = req;
-    const returnDate = moment('2023-10-14');
+    const returnDate = moment();
     const id = await isIDGood(req.id)
     updateData.status = 'Return';
     const details = await getItem(id, Borrow, 'member_id book_id', 'code name title author stock');
@@ -27,15 +27,15 @@ const updateBorrow = async (req, res) => {
     updateData.returnDate = moment(returnDate).format('YYYY-MM-DD');
 
     if( moment(details.dueDate).diff(returnDate, 'days') < 0 )
-      {
-        errorMsg = 'Your Account got Penalty';
-        console.log('errorMsg', errorMsg)
-        await updateMemberStatus(updateData.member_id, 'Penalty');
-      }
-      await updateStock(updateData.book_id, 1);
-      const resUpdate = await updateItem(id, Borrow, updateData);
-      resUpdate.msg = errorMsg;
-      res.status(200).json(resUpdate)
+    {
+      errorMsg = 'Your Account got Penalty';
+      console.log('errorMsg', errorMsg)
+      await updateMemberStatus(updateData.member_id, 'Penalty');
+    }
+    await updateStock(updateData.book_id, 1);
+    const resUpdate = await updateItem(id, Borrow, updateData);
+    resUpdate.msg = errorMsg;
+    res.status(200).json(resUpdate)
   } catch (error) {
     handleError(res, error)
   }
