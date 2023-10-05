@@ -37,7 +37,7 @@ const checkUserStatus = (member_id = '') => {
 
                                 if( reseponse )
                                 {
-                                    const dateNow = moment('2023-10-17');
+                                    const dateNow = moment();
                                     if( dateNow.diff(moment(reseponse.returnDate), 'days') >= 3 )
                                     {
                                         const memberData = {
