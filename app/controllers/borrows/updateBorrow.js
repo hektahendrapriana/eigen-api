@@ -13,10 +13,15 @@ const moment = require('moment');
  */
 const updateBorrow = async (req, res) => {
   try {
+    var returnDate = moment();
+    if(typeof(req.body.returnDate) !== 'undefined')
+    {
+      returnDate = moment(req.body.returnDate);
+    }
     req = matchedData(req)
     var errorMsg = '';
     const updateData = req;
-    const returnDate = moment();
+    
     const id = await isIDGood(req.id)
     updateData.status = 'Return';
     const details = await getItem(id, Borrow, 'member_id book_id', 'code name title author stock');

@@ -151,6 +151,11 @@ body data:
 
 ```tsx
 PATCH http://localhost:8080/eigen-api/borrows/651de5a6ca218dc724cb5129
+if you want using manual date, put the body data :
+{
+  "returnDate": "2023-10-08"
+}
+but if you not set the body data, date will get from today
 ```
 - Check the book
     - [ ]  Shows all existing books and quantities
